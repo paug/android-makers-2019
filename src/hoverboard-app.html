@@ -73,6 +73,7 @@
       .drawer-list {
         padding: 16px 0;
         display: block;
+        height: 75%;
       }
 
       .drawer-list a {
@@ -116,7 +117,7 @@
         margin-left: 6px;
       }
 
-      .buy-ticket {
+      .button {
         padding: 16px 24px;
       }
 
@@ -165,11 +166,20 @@
           </iron-selector>
 
           <a
-            class="buy-ticket"
+            class="button"
             href="{$ linkEventbrite $}"
             layout horizontal center
           >
             <span>{$ buyTicket $}</span>
+            <iron-icon icon="hoverboard:open-in-new"></iron-icon>
+          </a>
+
+          <a
+            class="button"
+            href="{$ linkCallForPapers $}"
+            layout horizontal center
+          >
+            <span>{$ callForPapers $}</span>
             <iron-icon icon="hoverboard:open-in-new"></iron-icon>
           </a>
         </div>
@@ -197,6 +207,10 @@
             data-route="home"
             data-path="pages/home-page.html"
           ></home-page>
+          <cod-page
+            data-route="cod"
+            data-path="pages/cod-page.html"
+          ></cod-page>
         </iron-lazy-pages>
 
       </app-header-layout>
