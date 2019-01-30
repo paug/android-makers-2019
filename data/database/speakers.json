@@ -210,7 +210,7 @@
         "name": "LinkedIn"
       },
       {
-        "icon": "website",
+        "icon": "gplus",
         "link": "https://plus.google.com/+YannickLemin",
         "name": "Google+"
       }
@@ -470,7 +470,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "website",
+        "icon": "gplus",
         "link": "https://plus.google.com/+EtienneCaron",
         "name": "Google+"
       }
@@ -531,9 +531,281 @@
         "name": "Twitter"
       },
       {
-        "icon": "website",
+        "icon": "gplus",
         "link": "https://plus.google.com/+LouisCognault",
         "name": "Google+"
+      }
+    ]
+  },
+  "be0712870b4c90334f276a529f5a8f3fcebe50da": {
+    "order": 16,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/danny-preussler",
+        "name": "gde"
+      }
+    ],
+    "company": "sporttotal.tv",
+    "companyLogo": "/images/logos/sporttotaltv.svg",
+    "name": "Danny Preussler",
+    "country": "Berlin, Germany",
+    "photo": "/images/people/danny_preussler.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdanny_preussler.jpg?alt=media&token=84f6de43-0560-415d-99d5-cce10bc0823d",
+    "bio": "Danny writes and talks about mobile development and testing regularly and is a Google Developer Expert for Android and Kotlin. He was in charge for Android for eBay’s classifieds business in Germany before moving to Groupon to build a team there bringing mobile to the life of merchants. Even before Android came along he programmed for mobile phones and every device that could run some kind of Java. Lately, he is looking at TV entertainment working for brands like MTV, VH1, Comedy Central and recently sports streaming.",
+    "shortBio": "Danny writes and talks about mobile development and testing regularly and is a Google Developer Expert for Android and Kotlin. He was in charge for...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/PreusslerBerlin",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@dpreussler",
+        "name": "Medium"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/danny-preussler-557a3b79/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://sporttotal.tv",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/dpreussler",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "855a1af7d899d1dd7bfe11b340f628fe70ef54a9": {
+    "order": 17,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Machine Learning"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "Hoi Lam",
+    "country": "London, UK",
+    "photo": "/images/people/hoi_lam.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fhoi_lam.jpg?alt=media&token=5dd23135-4367-44b9-975e-abcb64bef2c3",
+    "bio": "Hoi is the Head of Developer Relations for Android Machine Learning and also a sector executive for the Institution of Engineering and Technology (IET). He was part of the launch team for Wear OS by Google (previously, Android Wear), Chromecast, Google Glass Enterprise Edition, and the Google Beacon Platform. Prior to Google, he founded Exahive to disrupt the mobile commerce market place. Hoi was an Equity Research VP at Deutsche Bank and Citigroup covering technology companies. Before banking, he was a product manager / application architect at Accenture. Hoi holds a Master and Bachelor degree in Space Engineering from the University of Cambridge.",
+    "shortBio": "Hoi is the Head of Developer Relations for Android Machine Learning and also a sector executive for the Institution of Engineering and Technology (IET)...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/hoitab",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/116428109613831009632",
+        "name": "Google+"
+      }
+    ]
+  },
+  "fb805760b311d7dea7963afcd97f9613303f7722": {
+    "order": 18,
+    "featured": false,
+    "badges": [],
+    "company": "Disney Streaming Services",
+    "companyLogo": "/images/logos/disneystreamingservices.svg",
+    "name": "Dupré Sandra",
+    "country": "Amsterdam, The Netherlands",
+    "photo": "/images/people/dupre_sandra.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdupre_sandra.jpg?alt=media&token=e56d7c2e-7567-463f-82ff-9522dc9657f0",
+    "bio": "Android Developer who is crazy to make things even smarter. She works for Disney (where all the dreams come true) Streaming Services. These days, she is passionate about MotionLayout.",
+    "shortBio": "Android Developer who is crazy to make things even smarter. She works for Disney (where all the dreams come true) Streaming Services. These days, she is...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/SandraDdev",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://medium.com/@sandra.duprep",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "8f68e78b32a10a76333bab554eb2ad6532d0aa50": {
+    "order": 19,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Women Techmakers Romania",
+        "link": "https://www.meetup.com/Women-Techmakers-Romania/",
+        "name": "wtm"
+      }
+    ],
+    "company": "",
+    "companyLogo": "",
+    "name": "Magda Miu",
+    "country": "Bucharest, Romania",
+    "photo": "/images/people/magda_miu.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmagda_miu.jpg?alt=media&token=07740cc8-1626-42a7-b414-f946d9dea68e",
+    "bio": "Magda is an enthusiastic and innovative Mobile Team Leader and Certified Scrum Master with more than 8 years experience in software development. She is very devoted to the technical nature of her work, dedicating specific time for learning, testing and implementing new technologies and using these in her coaching process with her team members. Also, she is one of the promoters of digital communities in different towns of Romania, supporting other technical professionals to constantly improve their knowledge by being co-organiser at GDG Pitești and Women Techmakers Romania. ",
+    "shortBio": "Magda is an enthusiastic and innovative Mobile Team Leader and Certified Scrum Master with more than 8 years experience in software development...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/magdamiu",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@magdamiu",
+        "name": "Medium"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/magdamiu/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://magdamiu.com/",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/magdamiu",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "7c3c8d4952ab519203050d818cb1f3d6193ec605": {
+    "order": 20,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Studio"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "Vadim Caen",
+    "country": "London, UK",
+    "photo": "/images/people/vadim_caen.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fvadim_caen.jpg?alt=media&token=418d658c-cdce-40f7-91f9-06662c16b339",
+    "bio": "Vadim is a software engineer in the Android Studio team at Google London. He is working on the Design Tools, mainly on the resource manager and the layout editor.",
+    "shortBio": "Vadim is a software engineer in the Android Studio team at Google London. He is working on the Design Tools, mainly on the resource manager and the layout...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/vadimcaen",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/vcaen/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "c51d1bb67a1dc86f27d7e9db63baae388dba5816": {
+    "order": 21,
+    "featured": false,
+    "badges": [
+      {
+        "description": "GDG Android Nantes",
+        "link": "https://www.meetup.com/fr-FR/gdg_nantes_android/",
+        "name": "gdg"
+      }
+    ],
+    "company": "ASI",
+    "companyLogo": "/images/logos/asi.svg",
+    "name": "Pierre Tibulle",
+    "country": "Nantes, France",
+    "photo": "/images/people/pierre_tibulle.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierre_tibulle.jpg?alt=media&token=62e64c0d-e470-40f1-81aa-adbc91b6dd7d",
+    "bio": "\"Job Crafter\" en ESN, dev mobile (Android/iOS/Hybride), je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation du meetup Android Nantes (GDG)...",
+    "shortBio": "\"Job Crafter\" en ESN, dev mobile (Android/iOS/Hybride), je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ptibulle",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "78c3edf266c08db4ad6c86f2019ab7b7fb1082f4": {
+    "order": 22,
+    "featured": false,
+    "badges": [
+      {
+        "description": "GDG Flutter Rennes",
+        "link": "https://www.meetup.com/fr-FR/Flutter-Rennes/",
+        "name": "gdg"
+      }
+    ],
+    "company": "Orange Business Services",
+    "companyLogo": "/images/logos/orangebusinessservices.svg",
+    "name": "Romain Rastel",
+    "country": "Rennes, France",
+    "photo": "/images/people/romain_rastel.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fromain_rastel.jpg?alt=media&token=623750d9-5498-4be4-bdd2-aa40fab04723",
+    "bio": "Développeur passionné depuis plus de 10 ans. Pendant longtemps j'ai utilisé les technologies de Microsoft (.Net, C#, Xamarin). Aujourd'hui je suis passé à Dart et je suis devenu très impliqué dans la communauté de Flutter.\r\nJe co-organise notamment le meetup Flutter-Rennes.",
+    "shortBio": "Développeur passionné depuis plus de 10 ans. Pendant longtemps j'ai utilisé les technologies de Microsoft (.Net, C#, Xamarin). Aujourd'hui je suis passé à Dart...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/lets4r",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/romain-rastel-968a8593/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "bb6d8ab858c76a2ae9bd19825398562f8c36b3d5": {
+    "order": 23,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/horacio-gonzalez",
+        "name": "gde"
+      }
+    ],
+    "company": "OVH",
+    "companyLogo": "/images/logos/ovh.svg",
+    "name": "Horacio Gonzalez",
+    "country": "Brest, France",
+    "photo": "/images/people/horacio_gonzalez.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fhoracio_gonzalez.jpg?alt=media&token=def9ab5d-b191-46e1-8177-2afdbecf5810",
+    "bio": "Spaniard lost in Brittany. \r\n\r\nAfter some years as @warp10io frontend leader as Cityzen Data, Horacio currently works as technical evangelist at @OVH. He is the co-founder and leader of the @FinistDevs. \r\n\r\nHoracio is a Google Developer Expert (GDE) en Web Technologies and Flutter. He loves web development in general and everything around Web Components and Polymer in particular.",
+    "shortBio": "Spaniard lost in Brittany. \r\n\r\nAfter some years as @warp10io frontend leader as Cityzen Data, Horacio currently works as technical evangelist at @OVH...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/LostInBrittany",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/horaciogonzalez/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://ovh.com",
+        "name": "Blog"
       }
     ]
   }
